@@ -1,0 +1,31 @@
+{
+  "name": "haxe-vsc-template",
+  "version": "1.0.0",
+  "description": "Preconfigured Visual Haxe Template for Visual Studio Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "/bricksoft/npm-haxe-vsc-template",
+  "keywords": [
+    "haxe",
+    "vsc",
+    "visual",
+    "studio",
+    "code",
+    "template"
+  ],
+  "author": "Bricksoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bricksoft/npm-haxe-vsc-template/issues"
+  },
+  "homepage": "https://github.com/bricksoft/npm-haxe-vsc-template#readme",
+  "bin": {
+    "init_haxe": "bin/init_Haxe"
+  },
+  "dependencies": {
+    "del": "^2.2.2",
+    "ncp": "^2.0.0"
+  }
+}

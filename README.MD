@@ -1,5 +1,11 @@
 # Visual Studio Code Haxe Template Installer
 
+Template: [![GitHub version](https://badge.fury.io/gh/bricksoft%2Fvsc-haxe-template.svg)](https://badge.fury.io/gh/bricksoft%2Fvsc-haxe-template)
+
+This Package: [![npm version](https://badge.fury.io/js/haxe-vsc-template.svg)](https://badge.fury.io/js/haxe-vsc-template)
+
+---
+
 An npm Package for Node.js to install a preconfigured Visual Studio Code Project for HAXE.
 
 The Template can be found [here](https://github.com/bricksoft/vsc-haxe-template/). 

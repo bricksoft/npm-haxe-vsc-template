@@ -5,4 +5,4 @@ var dir = process.argv[2] ? process.argv[2] : ".";
 
 process.title = 'Visual Studio Code Haxe Template Installer';
 
-require(basedir + "/index.js").install(dir);
+require(basedir + "/../index.js").install(dir);

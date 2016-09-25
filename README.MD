@@ -12,7 +12,7 @@ The Template can be found [here](https://github.com/bricksoft/vsc-haxe-template/
 
 ## Installation
 
-> npm install -g haxe-vsc-template
+> npm install -g haxe-vsc-template npm-haxe-vsc-template-files
 
 
 ## Commandline Usage

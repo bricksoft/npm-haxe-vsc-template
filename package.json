@@ -1,12 +1,12 @@
 {
   "name": "haxe-vsc-template",
-  "version": "1.1.0",
-  "description": "Preconfigured Visual Haxe Template for Visual Studio Code",
+  "version": "2.0.0",
+  "description": "Preconfigured Haxe Template for Visual Studio Code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "/bricksoft/npm-haxe-vsc-template",
+  "repository": "bricksoft/npm-haxe-vsc-template",
   "keywords": [
     "haxe",
     "vsc",
@@ -27,6 +27,6 @@
   "dependencies": {
     "del": "^2.2.2",
     "ncp": "^2.0.0",
-	"template": "bricksoft/vsc-haxe-template"
+    "npm-haxe-vsc-template-files": "^1.0.0"
   }
 }

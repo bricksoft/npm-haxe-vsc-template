@@ -5,7 +5,7 @@ var init_Haxe = {};
 
 init_Haxe = (function(){}).prototype = {
 	install : function (directory){
-		var source = __dirname + "/template";
+		var source = __dirname + "/../npm-haxe-vsc-template-files/template";
 		var destination = directory ? (directory == "." ? process.cwd() : directory) : process.cwd();
 		ncp(source, destination, function (err) {
 			if (err) {

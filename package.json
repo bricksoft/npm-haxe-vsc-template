@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "del": "^2.2.2",
-    "ncp": "^2.0.0"
+    "ncp": "^2.0.0",
+	"template": "bricksoft/vsc-haxe-template"
   }
 }
